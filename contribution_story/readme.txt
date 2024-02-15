@@ -1,0 +1,1 @@
+Given for bevy meetup #1 + fosdem 2024. Check my accompanying blog post: https://thierryberger.com/blog/contribution-story-winit/
